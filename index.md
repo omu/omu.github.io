@@ -5,6 +5,7 @@ layout: default
 Projeler
 --------
 
-- [nokul](https://nokul.app.omu.sh)
-- [kalem](https://kalem.app.omu.sh)
+- [nokul](https://nokul.omu.sh)
+- [xokul](https://xokul.omu.sh)
+- [kalem](https://kalem.omu.edu.tr)
 - [bulut](https://bulut.omu.sh)
